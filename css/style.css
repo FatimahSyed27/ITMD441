@@ -40,3 +40,8 @@ p + p {
   margin-top: 15px;
 }
 
+.centered-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
